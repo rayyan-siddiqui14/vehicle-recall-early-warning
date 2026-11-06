@@ -1,0 +1,7 @@
+initiated_by,recalls,flagged,median_lead_months,pct_flagged,model
+MFR,507,44,4.292763157894737,8.7,Structural only
+ODI,132,10,5.098684210526316,7.6,Structural only
+OVSC,9,1,5.131578947368421,11.1,Structural only
+MFR,507,53,4.440789473684211,10.5,Full model
+ODI,132,23,4.144736842105264,17.4,Full model
+OVSC,9,0,,0.0,Full model

@@ -1,0 +1,5 @@
+model,ROC-AUC,PR-AUC
+"Structural only (make, system, age)",0.7797,0.0323
+Complaint signals only,0.7045,0.0252
+Structural + complaints (no family),0.8091,0.0375
+All features,0.8105,0.0383
